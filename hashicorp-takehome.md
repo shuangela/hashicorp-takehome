@@ -2,7 +2,7 @@
 
 ### What is the difference between push, pull, and fetch in Git?
 
-- `git push` - sent changes from a local branch to a remote repo
+- `git push` - send changes from a local branch to the corresponding branch in a remote repository
 - `git fetch` - get changes from a remote repo into your tracking branch
 - `git pull` - will get changes from a remote branch into your tracking branch and merge them into a local branch
 
